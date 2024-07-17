@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthiviraj Sahu</h1>
-<h3 align="center">A passionate frontend developer fromExperienced in web development with a strong foundation in HTML, CSS, JavaScript, Node.js, Python, Java, Express, and React.js. Completed a B.Tech in Information Technology with a 9.3 GPA, and an internship at Oasis Infobyte. Developed multiple projects including interactive games, task management apps, authentication systems, and responsive websites, demonstrating a knack for creating user-friendly interfaces and optimizing for various devices. Fluent in English, Hindi, and Oriya. India</h3>
+<h3 align="center">A passionate frontend developer fromExperienced in web development with a strong foundation in HTML, CSS, JavaScript, Node.js, Python, Java, Express, and React.js. Completed a B.Tech in Information Technology with a 9.4 GPA, and an internship at Oasis Infobyte. Developed multiple projects including interactive games, task management apps, authentication systems, and responsive websites, demonstrating a knack for creating user-friendly interfaces and optimizing for various devices. Fluent in English, Hindi, and Oriya. India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthivi13&label=Profile%20views&color=0e75b6&style=flat" alt="pruthivi13" /> </p>
 
